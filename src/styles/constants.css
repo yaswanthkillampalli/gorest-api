@@ -1,0 +1,29 @@
+/* src/styles/constants.css */
+.btn-get {
+  background-color: #3b82f6; /* Tailwind's blue-500 */
+  color: white;
+}
+.btn-get:hover {
+  background-color: #2563eb; /* Tailwind's blue-600 */
+}
+.btn-post {
+  background-color: #22c55e; /* Tailwind's green-500 */
+  color: white;
+}
+.btn-post:hover {
+  background-color: #16a34a; /* Tailwind's green-600 */
+}
+.btn-put {
+  background-color: #f59e0b; /* Tailwind's amber-500 */
+  color: white;
+}
+.btn-put:hover {
+  background-color: #d97706; /* Tailwind's amber-600 */
+}
+.btn-delete {
+  background-color: #ef4444; /* Tailwind's red-500 */
+  color: white;
+}
+.btn-delete:hover {
+  background-color: #dc2626; /* Tailwind's red-600 */
+}
