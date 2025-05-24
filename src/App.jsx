@@ -1,4 +1,4 @@
-import ApiInterface from './components/apiInterface';
+import ApiInterface from './components/ApiInterface';
 import './App.css';
 
 function App() {
